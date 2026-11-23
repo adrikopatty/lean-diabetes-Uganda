@@ -1,0 +1,18 @@
+# Licensed WHO STEPS data must not be published (the open Kasujja data is allowed)
+data/*
+!data/uganda_figshare/
+*.csv
+*.sav
+
+# Report source and course material (only the report PDF is uploaded)
+report/
+report_overleaf.zip
+exam project template/
+steps_docs/
+uci_download/
+ML Practical Exam 2026.pdf
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
