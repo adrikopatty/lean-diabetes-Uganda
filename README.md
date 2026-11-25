@@ -38,7 +38,7 @@ Every result is reported for all patients and separately for **lean** and non-le
 |---|---|
 | `lean_diabetes_uganda.ipynb` | The full analysis: data loading, cleaning, exploration, experiments A-D, SHAP interpretation, and a final cell to screen a new patient |
 | `data/uganda_figshare/hba1c_vs_fpg_validity_data.dta` | Kasujja et al. (2022) eastern Uganda outpatient data (CC BY 4.0) |
-| `lean_diabetes_uganda.pdf` | The project report |
+| `adriko_patricia.pdf` | The project report |
 | `requirements.txt` | Python packages needed to run the notebook |
 
 The US data is downloaded automatically by the notebook. The WHO STEPS data must be requested from WHO and saved as `data/uganda_steps/uga2014.dta` before running the notebook.
