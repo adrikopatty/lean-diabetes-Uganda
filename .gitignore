@@ -5,6 +5,7 @@ data/*
 *.sav
 
 # Report source and course material (only the report PDF is uploaded)
+report/
 report_overleaf.zip
 exam project template/
 steps_docs/
