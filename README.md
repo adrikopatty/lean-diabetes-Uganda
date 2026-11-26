@@ -39,6 +39,7 @@ Every result is reported for all patients and separately for **lean** and non-le
 | `lean_diabetes_uganda.ipynb` | The full analysis: data loading, cleaning, exploration, experiments A-D, SHAP interpretation, and a final cell to screen a new patient |
 | `data/uganda_figshare/hba1c_vs_fpg_validity_data.dta` | Kasujja et al. (2022) eastern Uganda outpatient data (CC BY 4.0) |
 | `adriko_patricia.pdf` | The project report |
+| `Developing_and_Comparing_Machine_Learning_Models_for_Detecting_Lean_Type_2_Diabetes_in_Uganda__Locally_Trained_versus_Foreign_Trained_Models.zip` | LaTeX source of the report (ACL template, bibliography and figures); upload to Overleaf and compile `acl_latex.tex` with pdfLaTeX |
 | `requirements.txt` | Python packages needed to run the notebook |
 
 The US data is downloaded automatically by the notebook. The WHO STEPS data must be requested from WHO and saved as `data/uganda_steps/uga2014.dta` before running the notebook.
